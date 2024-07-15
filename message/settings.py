@@ -91,8 +91,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'verceldb',
         'USER': 'default',
-        'PASSWORD': 'aC5LhTM2PxSG',
-        'HOST': 'ep-crimson-union-a40nwqc8.us-east-1.aws.neon.tech',
+        'PASSWORD': 'tbk2dFeS9QXE',
+        'HOST': 'ep-divine-recipe-a4r77wdv.us-east-1.aws.neon.tech',
         'PORT': '5432',
     }
 }
