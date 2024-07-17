@@ -137,9 +137,9 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 REST_FRAMEWORK = {
-    'DEFAULT_AUTHENTICATION_CLASSES': [
-        'rest_framework.authentication.TokenAuthentication',  # Add this line
-    ],
+    'DEFAULT_AUTHENTICATION_CLASSES': [],
+    #     'rest_framework.authentication.TokenAuthentication',  # Add this line
+
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.AllowAny',
     ]
@@ -155,3 +155,10 @@ CORS_ALLOW_METHODS = ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS']
 CORS_ALLOWED_ORIGIN_REGEXES = [
     'http://localhost:3000', 'https://*.vercel.app'
 ]
+
+
+# Example settings for authentication
+LOGIN_URL = 'home/'  # Replace with your desired login URL
+LOGOUT_REDIRECT_URL = 'login/'  # Replace with your desired logout redirect URL
+
+#AUTH_USER_MODEL = 'chat.User'
