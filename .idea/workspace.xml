@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4759f92-ba18-42d0-8b26-9a4515ba680c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chat/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/templates/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/templates/login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/templates/registration/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/message/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/message/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +55,10 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ri00009/Desktop/Assignment2/messageFrontend",
+    "last_opened_file_path": "C:/Users/ri00009/PycharmProjects/PythonProjects/mis_back",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,6 +123,11 @@
       <workItem from="1721096996544" duration="29313000" />
       <workItem from="1721198174469" duration="8661000" />
       <workItem from="1721254808056" duration="1224000" />
+      <workItem from="1721257291874" duration="5822000" />
+      <workItem from="1721266491883" duration="683000" />
+      <workItem from="1721267322242" duration="1375000" />
+      <workItem from="1721347527118" duration="1167000" />
+      <workItem from="1721355057120" duration="5096000" />
     </task>
     <servers />
   </component>

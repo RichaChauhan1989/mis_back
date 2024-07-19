@@ -6,8 +6,8 @@ from chat import views
 #from chat.viewsets import ChatRoomViewSets, MessageViewSets, UserProfileViewSet
 
 router = DefaultRouter()
-router.register(r'chatrooms', ChatRoomViewSet)
-router.register(r'messages', MessageViewSet)
+#router.register(r'chatrooms', ChatRoomViewSet)
+#router.register(r'messages', MessageViewSet)
 router.register(r'userprofiles', UserProfileViewSet)
 
 urlpatterns = [
