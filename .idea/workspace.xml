@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4759f92-ba18-42d0-8b26-9a4515ba680c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/urls.py" afterDir="false" />
     </list>
@@ -55,8 +56,9 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "3-as-a-backend-developer-i-need-to-setup-restful-apis-for-user-registrati…ation",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/ri00009/PycharmProjects/PythonProjects/mis_back",
     "node.js.detected.package.eslint": "true",
@@ -127,7 +129,8 @@
       <workItem from="1721266491883" duration="683000" />
       <workItem from="1721267322242" duration="1375000" />
       <workItem from="1721347527118" duration="1167000" />
-      <workItem from="1721355057120" duration="5096000" />
+      <workItem from="1721355057120" duration="6213000" />
+      <workItem from="1721453471916" duration="2630000" />
     </task>
     <servers />
   </component>
